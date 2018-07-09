@@ -365,11 +365,11 @@ var rtlServer = [
 // #############################
 
 const dataTable = {
-    headerRow: ["arrivalTime", "status", "provider", "receiver", "courier", "estimatedTime", "Actions"],
-    footerRow: ["arriveTime", "status", "provider", "receiver", "courier", "estimatedTime", "Actions"],
+    headerRow: ["arrivalTime", "status", "provider", "receiver", "courier", "estimatedTime", "Actions", "Price"],
+    footerRow: ["arriveTime", "status", "provider", "receiver", "courier", "estimatedTime", "Actions", "Price"],
     dataRows: [
-        ["10:00", "მიმდინარე", "რომელიღაც", "მე", "ხვიჩა", "11:56"],
-        ["10:00", "მიმდინარე", "რომელიღაც", "მე", "ხვიჩა", "11:56"],
+        ["10:00", "მიმდინარე", "რომელიღაც", "მე", "ხვიჩა", "11:56", "50₾"],
+        ["10:00", "მიმდინარე", "რომელიღაც", "მე", "ხვიჩა", "11:56", "16₾"],
         ["10:00", "დასრულებული", "რომელიღაც 2", "შენ", "გოჩა", "11:56"],
         ["10:00", "მიმდინარე", "რომელიღაც", "მე", "უშანგი", "11:56"]
     ]

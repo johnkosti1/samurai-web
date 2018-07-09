@@ -14,7 +14,7 @@ import Contacts from "@material-ui/icons/Contacts";
 import FiberManualRecord from "@material-ui/icons/FiberManualRecord";
 
 // core components
-import GridContainer from "components/Grid/GridContainer.jsx";
+import GridContainer from "../../components/Grid/GridContainer.jsx";
 import GridItem from "components/Grid/GridItem.jsx";
 import CustomInput from "components/CustomInput/CustomInput.jsx";
 import Button from "components/CustomButtons/Button.jsx";
